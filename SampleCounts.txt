@@ -1,0 +1,77 @@
+Counts for instance "Magic 3x3 RCD Square" (MagicSquare3x3)
+Number MVDs by magic sum:
+15: 8
+Total number MVDs: 8
+
+Counts for instance "Order 3" (Order3_01.txt)
+Number MVDs by magic sum:
+13: 6
+14: 48
+15: 24
+16: 90
+17: 60
+18: 144
+19: 60
+20: 90
+21: 24
+22: 48
+23: 6
+Total number MVDs: 600
+
+Counts for instance "Order 3" Order3_11.txt)
+Number MVDs by magic sum:
+13: 6
+14: 18
+15: 12
+16: 36
+17: 12
+18: 18
+19: 6
+Total number MVDs: 108
+
+
+Counts for instance "Order 4 Type 1" (Order4Type01.txt)
+Number MVDs by magic sum:
+Total number MVDs: 0
+
+Counts for instance "Order 4 Type 2 00" (Order4Type02_00.txt)
+Number MVDs by magic sum:
+11: 4
+12: 12
+13: 4
+Total number MVDs: 20
+
+Counts for instance "Order 4 Type 2 01" (Order4Type02_01.txt)
+Number MVDs by magic sum:
+15: 4
+16: 20
+17: 16
+19: 16
+20: 20
+21: 4
+Total number MVDs: 80
+
+Counts for instance "Order 4 Type 2 10" (Order4Type02_10.txt)
+Number MVDs by magic sum:
+11: 4
+12: 20
+13: 16
+14: 16
+15: 20
+16: 4
+Total number MVDs: 80
+
+Counts for instance "Order 4 Type 2 11" (Order4Type02_11.txt)
+Number MVDs by magic sum:
+15: 4
+16: 32
+17: 36
+18: 64
+19: 60
+20: 88
+21: 60
+22: 64
+23: 36
+24: 32
+25: 4
+Total number MVDs: 480
